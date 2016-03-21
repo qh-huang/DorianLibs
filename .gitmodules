@@ -1,0 +1,9 @@
+[submodule "DBoW2"]
+	path = DBoW2
+	url = git@github.com:huang-qiao/DBoW2.git
+[submodule "DLib"]
+	path = DLib
+	url = git@github.com:huang-qiao/DLib.git
+[submodule "DLoopDetector"]
+	path = DLoopDetector
+	url = git@github.com:huang-qiao/DLoopDetector.git
